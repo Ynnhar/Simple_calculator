@@ -1,1 +1,1 @@
-# Simple_calculator
+# SimplePyCalc
